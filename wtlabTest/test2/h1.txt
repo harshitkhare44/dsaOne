@@ -1,0 +1,19 @@
+harshit
+Original String = harshit
+
+Reversed String = tihsrah
+Reversed String word by word
+tihsrah 
+Vowels Replaced String : h@rsh@t
+Original String = harshit
+
+Reversed String = tihsrah
+Reversed String word by word
+tihsrah 
+Vowels Replaced String : h@rsh@t
+Original String = harshit
+
+Reversed String = tihsrah
+Reversed String word by word
+tihsrah 
+Vowels Replaced String : h@rsh@t

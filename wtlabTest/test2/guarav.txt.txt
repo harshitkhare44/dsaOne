@@ -1,0 +1,3 @@
+orignal string:gaurav
+reversed string:varuag
+vowels:3
